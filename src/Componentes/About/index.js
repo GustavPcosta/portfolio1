@@ -28,7 +28,7 @@ function About(){
               <div className="col-lg-6">
                 <ul>
                   <li><i className="bi bi-chevron-right"></i> <strong>Aniversário:</strong> <span>15 nov 1998</span></li>
-                  <li><i className="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.example.com</span></li>
+                  <li><i className="bi bi-chevron-right"></i> <strong>Website:</strong> <span>onepim@hotmail.com</span></li>
                   <li><i className="bi bi-chevron-right"></i> <strong>Telefone:</strong> <span>(73) 991433494</span></li>
                   <li><i className="bi bi-chevron-right"></i> <strong>Cidade:</strong> <span>Itabuna - Bahia</span></li>
                 </ul>
